@@ -7,7 +7,7 @@
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=felypemp&hide=contribs,prs) -->
 
 
-![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=felypemp&show_icons=true&theme=dracula) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felypemp&layout=compact)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=felypemp&hide=contribs,prs&theme=dracula) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felypemp&layout=compact&theme=dracula)
 
 
 ## Tecnologias que uso no meu dia
