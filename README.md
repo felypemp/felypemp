@@ -4,10 +4,9 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipematospereira/)
 
 
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=felypemp&hide=contribs,prs) -->
 
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=felypemp&hide=contribs,prs&theme=dracula) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felypemp&layout=compact&theme=dracula)
+![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=felypemp&show_icons=true&theme=dracula) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felypemp&layout=compact&theme=dracula)
 
 
 ## Tecnologias que uso no meu dia
